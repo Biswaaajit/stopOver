@@ -36,8 +36,8 @@ Password: 123
 
 ## 🌍 Live Demo
 
-*(Add your live demo URL here when available)*
-
+You can check out the live version of **StopOver** here:
+[https://stop-over-snowy.vercel.app/](https://stop-over-snowy.vercel.app/)
 
 
 ## Deployment
