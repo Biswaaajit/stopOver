@@ -13,7 +13,7 @@ export default function LoginPageContent() {
 
   useEffect(() => {
     if (login) {
-      router.push("/Map/Cities");
+      router.push("/Map");
     }
   }, [router, login]);
   return (
